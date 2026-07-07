@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import tensorflow as tf
+from keras.models import load_model
 import pickle
 
 # Load model
-model = tf.keras.models.load_model('model.h5')
+model = load_model('model.h5')
 
 # Load encoders and scaler
 with open('label_encoder_gender.pkl', 'rb') as file:
