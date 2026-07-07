@@ -1,5 +1,11 @@
 # ANN Classification and Regression Project
 
+## Live App
+[Open Streamlit App](https://ann-classification-project-jpkapjcofusruqcbxqgwuj.streamlit.app/)
+
+## GitHub Repository
+[Open GitHub Repo](https://github.com/Nissikatta/ANN-Classification-project)
+
 This project demonstrates the implementation of Artificial Neural Networks (ANN) for both *classification* and *regression* tasks using *TensorFlow/Keras, along with **hyperparameter tuning* and *Streamlit deployment*.
 
 ## Project Overview
