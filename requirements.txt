@@ -1,8 +1,7 @@
 pandas
 numpy
-scikit-learn==1.5.1
+scikit-learn
 streamlit
 matplotlib
-keras==3.4.1
 h5py
-
+tensorflow==2.16.1
