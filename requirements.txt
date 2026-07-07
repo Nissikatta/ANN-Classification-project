@@ -1,8 +1,8 @@
 pandas
 numpy
-scikit-learn
+scikit-learn==1.5.1
 streamlit
 matplotlib
-tensorflow
-pickle-mixin
+keras==3.4.1
+h5py
 
