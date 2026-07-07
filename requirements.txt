@@ -4,4 +4,4 @@ scikit-learn
 streamlit
 matplotlib
 h5py
-tensorflow==2.15.0
+tensorflow==2.12.0
