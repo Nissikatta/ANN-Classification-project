@@ -1,7 +1,7 @@
 # ANN Classification and Regression Project
 
 ## Live App
-[Open Streamlit App](https://ann-classification-project-jpkapjcofusruqcbxqgwuj.streamlit.app/)
+[Open Streamlit App](https://ann-classification-project-jpkapjcofusrucqbxqgwuj.streamlit.app/)
 
 ## GitHub Repository
 [Open GitHub Repo](https://github.com/Nissikatta/ANN-Classification-project)
